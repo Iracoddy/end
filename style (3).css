@@ -1,0 +1,22 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+
+}
+
+body {
+	background-color: #87CEEB;
+}
+
+.title {
+	color: #006400;
+}
+
+.title2 {
+	color: #006400;
+}
+
+.title3 {
+	color: #006400;
+}
